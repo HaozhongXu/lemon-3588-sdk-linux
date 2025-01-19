@@ -3,10 +3,14 @@ debian
 external
 prebuilts
 IMAGE
-prebuilts.zip
 readme
 br.log
 doc
 ubuntu
 proj.list
 rockdev
+prebuildts.zip
+debian.zip
+external.zip
+ubuntu.zip
+
