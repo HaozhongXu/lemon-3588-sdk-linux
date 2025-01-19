@@ -1,0 +1,12 @@
+# Ignore some offline built-in directories
+debian
+external
+prebuilts
+IMAGE
+prebuildts.zip
+readme
+br.log
+doc
+ubuntu
+proj.list
+rockdev
