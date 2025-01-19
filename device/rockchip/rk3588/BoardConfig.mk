@@ -1,0 +1,1 @@
+BoardConfig-rk3588-neardi-linux-lc160.mk
