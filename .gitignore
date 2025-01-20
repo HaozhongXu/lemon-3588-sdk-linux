@@ -1,14 +1,14 @@
 # Ignore some offline built-in directories
-debian
-external
-prebuilts
-IMAGE
-readme
-br.log
-doc
-ubuntu
-proj.list
-rockdev
+/debian
+/external
+/prebuilts
+/IMAGE
+/readme
+/br.log
+/doc
+/ubuntu
+/proj.list
+/rockdev
 prebuilts.zip
 debian.zip
 external.zip
