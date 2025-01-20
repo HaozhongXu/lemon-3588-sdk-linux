@@ -4,4 +4,5 @@
 	branch = board/lemon3588
 [submodule "u-boot"]
 	path = u-boot
-	url = https://github.com/XuLearner6/base-uboot.git
+	url = https://gitee.com/helloxhz/base-uboot.git
+	branch = main
