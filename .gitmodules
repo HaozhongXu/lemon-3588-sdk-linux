@@ -1,8 +1,8 @@
 [submodule "kernel"]
 	path = kernel
-	url = https://gitee.com/helloxhz/base-kernel-5-10-110.git
+	url = https://gitee.com/HaozhongXu/base-kernel-5-10-110.git
 	branch = board/lemon3588
 [submodule "u-boot"]
 	path = u-boot
-	url = https://gitee.com/helloxhz/base-uboot.git
+	url = https://gitee.com/HaozhongXu/base-uboot.git
 	branch = main
